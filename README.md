@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+Plataforma de Asistencia Híbrida con Integración de WhatsApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La propuesta se centra en el desarrollo de una avanzada plataforma de asistencia híbrida, que fusiona la eficiencia de la inteligencia artificial proporcionada por OpenAI con la accesibilidad y la extensa base de usuarios de WhatsApp. Esta solución se implementará mediante el uso de Socket.io para garantizar una comunicación fluida y en tiempo real entre los usuarios y el asistente IA, facilitando un diálogo interactivo y dinámico.
 
-## Available Scripts
+Características Clave:
 
-In the project directory, you can run:
+Integración Transparente con WhatsApp: Permitirá a los usuarios interactuar con el asistente de IA directamente desde su aplicación de WhatsApp, sin necesidad de instalar o acceder a plataformas adicionales. Esta integración busca aprovechar la familiaridad y conveniencia de WhatsApp, facilitando así una experiencia de usuario sin fricciones.
 
-### `npm start`
+Comunicación en Tiempo Real: Gracias a Socket.io, la plataforma ofrecerá una experiencia de chat en vivo, donde las respuestas y consultas se procesan y visualizan instantáneamente. Esto es crucial para mantener una conversación fluida y natural, emulando la interacción humana lo más cercanamente posible.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Supervisión y Participación Humana Oportuna: Un aspecto innovador de esta plataforma es la capacidad de detectar situaciones o consultas que requieren la intervención de un operador humano. Mediante algoritmos inteligentes, el sistema identificará cuándo una conversación se ha estancado, es sensible o compleja más allá de las capacidades de la IA, y automáticamente redirigirá el chat a un representante humano sin interrumpir la fluidez de la comunicación.
