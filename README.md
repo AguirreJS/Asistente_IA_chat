@@ -1,11 +1,15 @@
 Plataforma de Asistencia Híbrida con Integración de WhatsApp
+Descripción del Proyecto
+Este proyecto propone el desarrollo de una plataforma de asistencia híbrida de vanguardia, que integra la potencia y eficiencia de la inteligencia artificial de OpenAI con la amplia accesibilidad y base de usuarios de WhatsApp. Mediante la implementación de tecnologías como Socket.io, se busca proporcionar una comunicación sin interrupciones y en tiempo real entre los usuarios y el asistente de IA, promoviendo una interacción dinámica y enriquecedora.
 
-La propuesta se centra en el desarrollo de una avanzada plataforma de asistencia híbrida, que fusiona la eficiencia de la inteligencia artificial proporcionada por OpenAI con la accesibilidad y la extensa base de usuarios de WhatsApp. Esta solución se implementará mediante el uso de Socket.io para garantizar una comunicación fluida y en tiempo real entre los usuarios y el asistente IA, facilitando un diálogo interactivo y dinámico.
+Características Principales
+Integración Transparente con WhatsApp
+La plataforma permitirá a los usuarios interactuar con el asistente de IA directamente a través de WhatsApp, eliminando la necesidad de instalar aplicaciones adicionales o acceder a otras plataformas. Esta característica se enfoca en maximizar la comodidad y la familiaridad que los usuarios ya tienen con WhatsApp, ofreciendo así una experiencia de usuario fluida y sin complicaciones.
 
-Características Clave:
+Comunicación en Tiempo Real
+Aprovechando la tecnología de Socket.io, se habilitará una experiencia de chat en vivo, donde las consultas y respuestas se procesan de manera instantánea. Este enfoque es fundamental para sostener una conversación coherente y natural, imitando la interacción humana de la manera más fiel posible.
 
-Integración Transparente con WhatsApp: Permitirá a los usuarios interactuar con el asistente de IA directamente desde su aplicación de WhatsApp, sin necesidad de instalar o acceder a plataformas adicionales. Esta integración busca aprovechar la familiaridad y conveniencia de WhatsApp, facilitando así una experiencia de usuario sin fricciones.
+Supervisión y Participación Humana Oportuna
+Un elemento distintivo de la plataforma es su capacidad para discernir situaciones o preguntas que requieren la intervención humana. Utilizando algoritmos avanzados, el sistema detectará automáticamente cuando una conversación necesite ser transferida a un representante humano, debido a su complejidad, sensibilidad o estancamiento. Esta transición se realizará de manera fluida, asegurando que la comunicación no pierda su continuidad.
 
-Comunicación en Tiempo Real: Gracias a Socket.io, la plataforma ofrecerá una experiencia de chat en vivo, donde las respuestas y consultas se procesan y visualizan instantáneamente. Esto es crucial para mantener una conversación fluida y natural, emulando la interacción humana lo más cercanamente posible.
-
-Supervisión y Participación Humana Oportuna: Un aspecto innovador de esta plataforma es la capacidad de detectar situaciones o consultas que requieren la intervención de un operador humano. Mediante algoritmos inteligentes, el sistema identificará cuándo una conversación se ha estancado, es sensible o compleja más allá de las capacidades de la IA, y automáticamente redirigirá el chat a un representante humano sin interrumpir la fluidez de la comunicación.
+Este enfoque híbrido no solo mejora la accesibilidad y la eficiencia en la asistencia al cliente, sino que también enfatiza la importancia de la interacción humana, garantizando que los usuarios reciban la ayuda más adecuada y personalizada posible.
